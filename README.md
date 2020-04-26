@@ -1,2 +1,2 @@
 # deploy_web
-deploy web tensorflowjj
+deploy web tensorflowjs
